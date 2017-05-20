@@ -25,7 +25,7 @@ SECRET_KEY = '$g)_cgrip&f=g66%7j8!0o=s-^mu-q!-)%216olmjn@f*qa%!a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
